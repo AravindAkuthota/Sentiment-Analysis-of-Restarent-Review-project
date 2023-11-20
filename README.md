@@ -6,7 +6,8 @@ Dataset: Restaurant_Reviews.tsv is a dataset from google drive datasets which co
 
 To build a model to predict if review is positive or negative, following steps are performed.
 
-#  Importing Dataset
+#  Importing Dataset[senstimental analysis of restarent review.pptx](https://github.com/AravindAkuthota/Sentiment-Analysis-of-Restarent-Review-project/files/13407030/senstimental.analysis.of.restarent.review.pptx)
+
 # Preprocessing Dataset
 # Vectorization
 # Training and Classification
